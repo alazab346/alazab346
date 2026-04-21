@@ -18,6 +18,9 @@ I am a Computer Science student passionate about building modern, scalable, and 
 🚀 I enjoy turning ideas into real-world digital products and continuously improving my skills through hands-on projects and learning.
 
 ---
+## 🏆 Achievements
+- Built 5 full-stack apps
+- Completed 100+ LeetCode problems
 
 ## 🛠️ Skills
 
